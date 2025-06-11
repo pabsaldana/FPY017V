@@ -31,8 +31,9 @@ for ele in miLista:
     print(ele)
 
 #ordenar y dar vuelta
-print("order y girar")
+print("ordenar")
 miLista.sort()#ordena de menor a mayor
+print("girar")
 miLista.reverse()#invierte orden
 for ele in miLista:
     print(ele)
